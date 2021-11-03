@@ -1,0 +1,2 @@
+# RoadSegmentationCRF
+本仓库主要记录遥感图像道路提取任务中后处理的方法
